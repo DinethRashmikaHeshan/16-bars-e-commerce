@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   description: 'Premium streetwear fashion from 16 Bars',
   generator: 'v0.app',
   icons: {
-    icon: '/logo-icon-new.png',
-    apple: '/logo-icon-new.png',
+    icon: '/logo-icon.png',
+    apple: '/logo-icon.png',
   },
 }
 
